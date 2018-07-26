@@ -1,0 +1,31 @@
+{
+  "name": "land-contracts",
+  "version": "1.0.0",
+  "description": "Block42 land smart contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "keywords": [
+    "Block42",
+    "Land",
+    "ERC721",
+    "Token",
+    "Blockchain"
+  ],
+  "author": "Richard Fu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "openzeppelin-solidity": "1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Block42World/land-contracts.git"
+  }
+}

@@ -2,7 +2,7 @@
 
 -----------------------
 
-# Block42 World and Land Token Contracts
+# Blockopoly World and Land Token Contracts
 
 - Using [OpenZeppelin 1.11.0](https://github.com/OpenZeppelin/openzeppelin-solidity) framework for best security and stability
 - Token is ERC721 non-fungible token standard
